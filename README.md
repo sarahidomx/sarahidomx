@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-💬I'm a student of Computer Systems Engineering<br>⚡I'm passionate about learning new things<br>💬Frontend and UX/UI apprentice<br>⚡I train archery at IPN<br>Fan of content creation <3 
+💻I'm a student of Computer Systems Engineering<br>⚡I'm passionate about learning new things<br>💬Frontend and UX/UI apprentice<br>🎯I train archery at IPN<br>📸Fan of content creation <3 
 
 
 ## 🌐 Socials:
